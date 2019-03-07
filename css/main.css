@@ -1,0 +1,157 @@
+
+body{
+	background-color: #ccc;
+	width:1500px;
+
+}
+header{
+	background-color: #2f4351; 
+	width: 1500px;
+	padding:10px;
+	margin:0 auto;
+	margin-bottom: 0px;
+	color:#fff;
+	text-align: center;
+	font-weight: bold;
+}
+.content{
+	background-color: #3b5367;
+	width: 1500px;
+	padding:10px;
+	margin-top: 0px;
+	color:#999137;
+	text-align: center;
+
+}
+
+h1{
+	background-color: #3b5367;
+	width: 1500px;
+	margin-top: 0px;
+	color:#fff;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+h4{
+	letter-spacing: 8px;
+}
+
+h5{
+	letter-spacing: 8px;
+}
+
+
+
+.box{
+	background-color: #fff;
+	width:1000px;
+	min-height: 400px;
+	margin:0px auto;
+}
+
+.par{
+	width: 500px;
+	float: left;
+	
+	padding:10px;
+}
+h3{
+	background:  #f7ce06;
+	padding: 10px;
+}
+img{
+	float: left;
+	
+}
+
+.me{
+	width:1000px;
+	
+	height: 400px;
+	margin:0px auto;
+	margin-top: 20px;
+	/*background: #fff;*/
+	margin-bottom: 20px;
+}
+.hobbies{
+	width:490px;
+	height: 400px;
+	float:left;
+	margin-right: 20px;
+	background: #fff;
+}
+
+.goals{
+	width:490px;
+	height: 400px;
+	float:left;
+	background: #fff;
+}
+h2{
+	background:  #f7ce06;
+	padding: 10px;
+	margin: 0px;
+}
+
+
+
+
+
+
+
+.tbl{
+	border-collapse: collapse;
+	background-color: #fff;
+	width:1000px;
+	margin:0px auto; 
+	margin-top: 25px;
+
+}
+
+.tbl table{
+	width:100%;
+	border-spacing: 0px;
+
+}
+.tbl th{
+	background:#f7ce06; 
+	padding:20px;
+	font-size: 20px;
+	color:#3b5367;
+	font-weight: bold;
+}
+.tbl table tr{
+	border-bottom:1px solid black;
+}
+
+.tbl table tr:last-child {
+	border-bottom: none;
+}
+.tbl table tr td{
+	border-right: 1px solid #ccc;
+	text-align: center;
+	padding: 10px;
+	color: rgba(0,0,0,0.5);
+}
+
+
+.footer{
+	width: 1500px;
+	background: #3b5367;
+	padding-left: 240px;
+	color:white;
+
+}
+.email{
+	color: #ccc;
+	font-size: 10px;
+}
+.phone{
+	color: #ccc;
+	font-size: 10px;
+}
+.copy{
+	color:#f7ce06;
+	font-size: 14px;
+}
